@@ -1,5 +1,6 @@
 ### nyx ###
 
+config.yaml
 *.log
 
 ### Go ###
