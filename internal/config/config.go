@@ -2,8 +2,10 @@ package config
 
 import (
 	"fmt"
+
 	"github.com/authenter/nyx/pkg/db"
 	"github.com/authenter/nyx/pkg/log"
+
 	"github.com/spf13/viper"
 )
 
