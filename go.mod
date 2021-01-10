@@ -3,7 +3,7 @@ module github.com/authenter/nyx
 go 1.15
 
 require (
-	github.com/gorilla/mux v1.8.0 // indirect
+	github.com/gorilla/mux v1.8.0
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/pkg/errors v0.8.1
 	github.com/sirupsen/logrus v1.7.0
